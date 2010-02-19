@@ -1,0 +1,204 @@
+* Mamading Ceesay -- The Mentat
+* David Pinto -- The Social Artist
+* Sofia Bustamante -- The Social Architect
+* Danny Bruder -- The Impresario
+* James Arthur -- The Chief
+
+"They make strange bedfellows, but performance art and business have come
+together in a project to create a dotcom company in a single day" -- guardian
+http://www.guardian.co.uk/weblog/idx/0,,1227010,00.html
+
+✗ Try to buy ampify.com
+
+✗ Ensure backups on GitHub repos
+✗ Code activity on GitHub
+
+✗ FAQs on Tender
+
+✗ S3 static files
+✗ <meta name="verify-v1" content="aLcMPDDmDYvgufTDcJiiCOgPt/FOooMmGHiPj64BMbU=" />
+
+✗ Main template
+✗ Main css
+✗ Main javascript
+✗ Main index
+
+✗ Blog template
+✗ Blog index
+✗ Blog rss
+✗ Blog first entry
+
+✗ Disqus on Blog
+✗ Disqus on Main site
+✗ Feedburner for Blog
+
+✗ TypeKit
+
+✗ Devboard template
+✗ Devboard handler
+✗ Devboard auth
+✗ Devboard GitHub post receive
+✗ Devboard breakpad
+✗ Devboard tree status
+✗ Devboard build status
+
+✗ Devsite template
+✗ Devsite index
+✗ Devsite article: git review
+
+✗ Planfile structure
+✗ Planfile content
+✗ Planfile diagrams
+
+✗ Git review
+✗ Git review config
+✗ Git review style validator
+✗ Git review gofmt
+✗ Git review revhooks
+✗ Git review watchlist
+✗ Breakpad
+
+✗ Build slave config
+✗ Build slave runner
+✗ Python test framework
+✗ Python tests
+✗ Go test framework
+✗ Go tests
+✗ Javascript test framework
+✗ Javascript tests
+✗ Test runner
+
+✗ ./configure
+✗ Makefile
+✗ git update
+
+✗ Paypal subscription docs
+✗ Paypal subscription implementation
+✗ Paypal subscription test
+
+✗ IRC logs template
+✗ IRC topic in channel
+
+✗ Supporters site template
+✗ Supporters site handler
+✗ Supporters site auth
+✗ Supporters site signup
+✗ Supporters site model
+✗ Supporters site post signup + initial mail
+✗ Supporters site graphics
+✗ Supporters site management
+
+✗ Sendgrid subscription
+✗ Supporters site sendgrid support
+✗ Supporters site mail outs
+
+✗ Trustmaps: update to the .com site
+✗ Trustmaps: quick fixes
+✗ Trustmaps: docs clean up
+✗ Trustmaps: stream
+✗ Trustmaps: article for blog
+✗ Trustmaps: video
+
+✗ App engine rate limit increase: trustmaps
+✗ App engine rate limit increase: supporters
+✗ Twitter rate limit increase
+✗ Change passwords (twitter, facebook, gmail, etc.)
+
+✗ Espians website articles
+
+✗ Video storyline
+✗ Video imagery
+✗ Video writing
+✗ Video voice
+✗ Video music
+✗ Video upload
+
+✗ DNS settings
+✗ Apache setup
+✗ Possibly get a linode backup + DNS changes
+✗ Blog article on ampify
+✗ Email espians
+
+✗ Post: ping.fm, espians fb/twitter, ampify twitter
+✗ DM twitter followers framework
+✗ DM twitter followers
+
+# ------------------------------------------------------------------------------
+
+# tav@espians.com (google apps) | app engine
+# tav@espians.com (google account) | google groups, analytics
+# tav@espians.com | twitter
+# tav@espians.com | tender
+# tav | linode
+# VS79-BR | bulkregister
+# TS?-GANDI | gandi
+
+# tav+ampify@espians.com | twitter/ampify
+# tav+ampify@espians.com | github/ampify
+# ampify@ampify.it | github ssh key
+
+# tav+tender@espians.com | tender dummy api account | tavtav
+
+# ------------------------------------------------------------------------------
+
+# Analytics: irclogs.ampify.it UA-90176-28
+# Analytics: devboard.ampify.it UA-90176-29
+
+# ------------------------------------------------------------------------------
+
+<!-- COLUMNS -->
+
+<div class="columns">
+
+<div class="column">
+<div class="column-text">
+<a class="link" href="http://tav.espians.com/using-trustmaps-to-filter-the-realtime-web.html" target="_blank" title="Find out more about Trust Maps">TRUST MAPS</a> help people to filter the noise and manage information overload &middot; It does this by introducing a layer of trust to social networks &mdash; who you trust and for what &mdash; and uses that to filter, rank and search the Realtime Web. <a href="http://www.trustmap.org" target="_blank" title="Try the alpha release of Espra Trustmap">Try the Alpha</a> and use it to <a href="http://tweets.trustmap.org" target="_blank" title="Filter Tweets according to People's Trustmaps">filter tweets</a>. <a href="#info-trustmaps" class="more-link" target="_blank" title="Trust Maps"><img class="absmiddle" src="more.gif" alt="More ..." /></a>
+</div>
+</div>
+
+<div class="column">
+<div class="column-text">
+<a class="link" href="http://www.thruflo.com/2009/06/09/tav-describes-pecus.html" target="_blank">PECUS</a>
+free everyone to make a living doing what they love &middot; Based on &ldquo;shares&rdquo; in people, it
+enables a new reputation based economy where those adding value can be rewarded
+&mdash; whether they're writing, making music, coding, cleaning the streets or just sharing useful links!
+<a href="#info-pecus" class="more-link" target="_blank" title="Pecus"><img class="absmiddle" src="more.gif" alt="More ..." /></a>
+</div>
+</div>
+
+<div class="column">
+<div class="column-text">
+<a class="link" href="http://www.espians.com/plexnet.html" target="_blank">PLEXNET</a>
+extends the Open Web into an open source P2P platform/language with queryable event-driven structured data
+&middot;
+Its capability security base will enable scalable and composable services
+that aren't easily possible today
+&middot;
+It's Web 4.0 &mdash; a Web 4 the people by the people!
+<a href="#info-plexnet" class="more-link" target="_blank" title="Plexnet"><img class="absmiddle" src="more.gif" alt="More ..." /></a>
+</div>
+</div>
+
+<div class="column-last">
+<a href="http://tav.espians.com" target="_blank" title="Visit Tav's Blog"><img src="tav.jpg" alt="Tav" width="72px" height="72px" class="float-right" /></a>
+<div class="column-text">
+My name is <a href="http://tav.espians.com" target="_blank" title="Visit my blog">Tav</a> &middot; I'm a 27 year old from London and,
+together with the <a href="http://www.espians.com" target="_blank" title="Visit the Espians homepage">Espians</a>, I've been
+working on this for the last 10 years &middot;
+If, after watching
+the video, you like Ampify <span class="lede">please support us with £10/month</span> or more &middot; Thanks!
+<a href="#info-tav" class="more-link" target="_blank" title="Tav and the Espians"><img class="absmiddle" src="more.gif" alt="More ..." /></a>
+</div>
+</div>
+
+<hr class="clear" />
+
+<div id="info-pecu">
+</div>
+
+<div class="column-footer">&nbsp;</div>
+
+</div>
+
+<!-- END COLUMNS -->
+
