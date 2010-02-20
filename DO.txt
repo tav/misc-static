@@ -18,6 +18,11 @@ http://www.guardian.co.uk/weblog/idx/0,,1227010,00.html
 ✗ S3 static files
 ✗ <meta name="verify-v1" content="aLcMPDDmDYvgufTDcJiiCOgPt/FOooMmGHiPj64BMbU=" />
 
+✗ optimise page load with different asset subdomains
+✗ fallback for when 2000 supporters reached
+✗ redis-based stat.ampify.it
+✗ Update HSBC IBAN/BIC details
+
 ✗ Main template
 ✗ Main css
 ✗ Main javascript
@@ -75,9 +80,6 @@ http://www.guardian.co.uk/weblog/idx/0,,1227010,00.html
 ✗ Paypal subscription docs
 ✗ Paypal subscription implementation
 ✗ Paypal subscription test
-
-✗ IRC logs template
-✗ IRC topic in channel
 
 ✗ Supporters site template
 ✗ Supporters site handler
@@ -141,7 +143,6 @@ http://www.guardian.co.uk/weblog/idx/0,,1227010,00.html
 
 # ------------------------------------------------------------------------------
 
-# Analytics: irclogs.ampify.it UA-90176-28
 # Analytics: devboard.ampify.it UA-90176-29
 
 # ------------------------------------------------------------------------------
